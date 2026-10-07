@@ -14,5 +14,5 @@ Este proyecto contiene el desarrollo del laboratorio sobre:
 HEAD
 Proyecto configurado y gestionado en GitHub por el Integrante
 
-Simulación de flujo colaborativo completada
+Simulación de flujo colaborativo completado
 feature-demo
