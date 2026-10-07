@@ -11,4 +11,8 @@ Este proyecto contiene el desarrollo del laboratorio sobre:
 - TDD
 - Principios SOLID
 
+HEAD
 Proyecto configurado y gestionado en GitHub por el Integrante
+
+Simulación de flujo colaborativo completada
+feature-demo
