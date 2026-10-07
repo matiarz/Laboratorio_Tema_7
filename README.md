@@ -10,3 +10,5 @@ Este proyecto contiene el desarrollo del laboratorio sobre:
 - Refactorización y código limpio
 - TDD
 - Principios SOLID
+
+Simulación de flujo colaborativo completada
