@@ -10,3 +10,5 @@ Este proyecto contiene el desarrollo del laboratorio sobre:
 - Refactorización y código limpio
 - TDD
 - Principios SOLID
+
+Proyecto configurado y gestionado en GitHub por el Integrante
